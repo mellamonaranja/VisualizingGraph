@@ -15,4 +15,4 @@ pip install python-igraph, cairocffi
 ```
 
 ## Technologies
-- Python 3.8
+- Python 3.7.3
